@@ -9,4 +9,5 @@ https://adventofcode.com/2022
 * [Day 4: Camp Cleanup](4)
 * [Day 5: Supply Stacks](5)
 * [Day 6: Tuning Trouble](6)
-* [Day 7: No Space Left On Device ](7)
+* [Day 7: No Space Left On Device](7)
+* [Day 8: Treetop Tree House](8)
