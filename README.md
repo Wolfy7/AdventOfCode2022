@@ -12,3 +12,4 @@ https://adventofcode.com/2022
 * [Day 7: No Space Left On Device](7)
 * [Day 8: Treetop Tree House](8)
 * [Day 9: Rope Bridge](9)
+* [Day 10: Cathode-Ray Tube](10)
