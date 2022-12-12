@@ -14,3 +14,4 @@ https://adventofcode.com/2022
 * [Day 9: Rope Bridge](9)
 * [Day 10: Cathode-Ray Tube](10)
 * [Day 11: Monkey in the Middle](11)
+* [Day 12: Hill Climbing Algorithm](12)
